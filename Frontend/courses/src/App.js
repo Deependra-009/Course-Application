@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import { ToastContainer, toast } from 'react-toastify';
 import { Container, Row, Col } from 'reactstrap';
@@ -14,8 +14,31 @@ import {
   Routes,
   Route
 } from "react-router-dom";
+import axios from 'axios';
+import base_url from './API/BootApi';
+
 
 function App() {
+
+  const [email,setEmail]=useState();
+  axios.get(`${base_url}/email`).then(
+    (response) => {
+        console.log(response);
+
+      //  setEmail({
+      //   email:response.data
+      //  })
+      //   console.log(email);
+    },
+    (error) => {
+       
+        console.log(error);
+        toast.error("Something went wrong");
+    }
+)
+
+
+
   return (
     <BrowserRouter>
       <div>

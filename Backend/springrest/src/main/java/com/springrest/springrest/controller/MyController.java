@@ -63,6 +63,11 @@ public class MyController {
 		}
 	}
 	
+	@GetMapping("/email")
+	public String getEmail() {
+		return "deependra@gmail.com";
+	}
+	
 	
 
 }
