@@ -1,0 +1,212 @@
+[
+    {
+        "startupName": "ZYPP",
+        "desc": "Fueling India's electric mobility",
+        "logoUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinvest.in/prod/partner/1/website/logo/horizontal-01.png?imwidth=384",
+        "valuation": null,
+        "category": {
+            "categoryId": 1,
+            "categoryName": "Fintech",
+            "categoryImageUrl": "default.png",
+            "categoryDescription": "Fintech Category Description"
+        },
+        "founders": [
+            {
+                "founderName": "Akash Gupta",
+                "imageUrl": "image.png",
+                "description": "Co-Founder and CEO of Zypp",
+                "title": null
+            },
+            {
+                "founderName": "Rashi Agarwal",
+                "imageUrl": "image.png",
+                "description": "Co-Founder and CBO of Zypp",
+                "title": null
+            }
+
+        ],
+        "fundRaisingRounds": [
+            {
+                "investorsName": "Info Edge",
+                "valuation": "100000",
+                "roundName": "Seed Round",
+                "fundingDate": "23/11/2012"
+            }
+        ],
+        "fundingCampaigns": [
+            {
+                "roundName": "Series B",
+                "campaignBannerUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinvest.in/production/asset/491/website/bgimage/zypp-bg.png",
+                "preMoneyValuation": 200000,
+                "instrumentType": "AIF",
+                "leadInvestor": "Global EV OEM",
+                "createdAt": "23/01/2023",
+                "updatedAt": "24/01/2023",
+                "isActive": true,
+                "isTrending": true,
+                "totalAmountRaised": 700000,
+                "amountRaising": "2 Cr",
+                "minInvestment": 20000
+            }
+        ],
+        "about": {
+            "aboutCompany": "India’s largest electric two-wheeler (“2W”) based last-mile delivery partner",
+            "foundingDetails": null,
+            "aboutBanner": null,
+            "businessModel": "EV + Driver model, EV Rentals",
+            "revenueInfo": "EV field",
+            "unitEconomics": "unitEconomics field",
+            "futurePlans": "futurePlans field",
+            "location": "Gurgaon",
+            "websiteUrl": "https://zypp.app/",
+            "legalName": "Zypp Electric",
+            "form": "Private"
+        }
+    },
+    {
+        "startupName": "ZYMukunda FoodsPP",
+        "desc": "",
+        "logoUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinves…uction/asset/303/website/logo/lgg.png?imwidth=256",
+        "valuation": null,
+        "category": {
+            "categoryId": 1,
+            "categoryName": "Fintech",
+            "categoryImageUrl": "default.png",
+            "categoryDescription": "Fintech Category Description"
+        },
+        "founders": [
+            {
+                "founderName": "",
+                "imageUrl": "image.png",
+                "description": "",
+                "title": null
+            }
+
+        ],
+        "fundRaisingRounds": [
+            {
+                "investorsName": "Zomato",
+                "valuation": "$25 M",
+                "roundName": "Series A Round",
+                "fundingDate": "03/2022"
+            },
+            {
+                "investorsName": "Ncubate Capital Partners",
+                "valuation": "$12 M",
+                "roundName": "Bridge Round",
+                "fundingDate": "04/2020"
+            },
+            {
+                "investorsName": "Rakesh Malhotra, Ncubate Capital Partners, Sunil Bhalla",
+                "valuation": "$25 M",
+                "roundName": "Angel Round",
+                "fundingDate": "07/2028"
+            }
+        ],
+        "fundingCampaigns": [
+            {
+                "roundName": "Pre-Seed",
+                "campaignBannerUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinvest.in/prod/partner/1/website/logo/horizontal-01.png?imwidth=384",
+                "preMoneyValuation": 200000,
+                "instrumentType": "AIF",
+                "leadInvestor": "Zomato",
+                "createdAt": "23/01/2023",
+                "updatedAt": "24/01/2023",
+                "isActive": true,
+                "isTrending": true,
+                "totalAmountRaised": 700000,
+                "amountRaising": "2 Cr",
+                "minInvestment": 20000
+            }
+        ],
+        "about": {
+            "aboutCompany": "Mukunda Foods (“MF” or “Company”) is a kitchen tech company i.e: developer and manufacturer of kitchen and food automation products",
+            "foundingDetails": null,
+            "aboutBanner": null,
+            "businessModel": "developer and manufacturer of kitchen and food automation products",
+            "revenueInfo": "kitchen tech company",
+            "unitEconomics": "unitEconomics field",
+            "futurePlans": "futurePlans field",
+            "location": "Bengaluru, Karnataka",
+            "websiteUrl": "https://mukundafoods.com/",
+            "legalName": "Mukunda Foods",
+            "form": "Private"
+        }
+    },
+    {
+        "startupName": "BIG SPOON",
+        "desc": "The Leader in Food-Tech for Tier II Cities",
+        "logoUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinves…n/asset/329/website/logo/bigspoon.png?imwidth=256",
+        "valuation": null,
+        "category": {
+            "categoryId": 1,
+            "categoryName": "Fintech",
+            "categoryImageUrl": "default.png",
+            "categoryDescription": "Fintech Category Description"
+        },
+        "founders": [
+            {
+                "founderName": "Akash Gupta",
+                "imageUrl": "image.png",
+                "description": "Co-Founder and CEO of Zypp",
+                "title": null
+            },
+            {
+                "founderName": "Rashi Agarwal",
+                "imageUrl": "image.png",
+                "description": "Co-Founder and CBO of Zypp",
+                "title": null
+            }
+
+        ],
+        "fundRaisingRounds": [
+            {
+                "investorsName": "NB Venture, Zed Capital, Growealth, Sanjiv Bajaj",
+                "valuation": "$15 M",
+                "roundName": "Pre Series A",
+                "fundingDate": "12/2021"
+            },
+            {
+                "investorsName": "Lemonade Venture, Urmin Family Office",
+                "valuation": "$3 M",
+                "roundName": "Angel",
+                "fundingDate": "03/2020"
+            },
+            {
+                "investorsName": "LetsVenture",
+                "valuation": "$25 M",
+                "roundName": "Seed",
+                "fundingDate": "08/2019"
+            }
+        ],
+        "fundingCampaigns": [
+            {
+                "roundName": "Pre-Seed",
+                "campaignBannerUrl": "https://s3.ap-south-1.amazonaws.com/docs.gripinvest.in/prod/partner/1/website/logo/horizontal-01.png?imwidth=384",
+                "preMoneyValuation": 200000,
+                "instrumentType": "AIF",
+                "leadInvestor": "Go Ventures",
+                "createdAt": "23/01/2023",
+                "updatedAt": "24/01/2023",
+                "isActive": true,
+                "isTrending": true,
+                "totalAmountRaised": 700000,
+                "amountRaising": "1 Cr",
+                "minInvestment": 20000
+            }
+        ],
+        "about": {
+            "aboutCompany": "BigSpoon is an Ahmedabad-based company operating ‘Cloud Kitchens’ or a delivery-only restaurant.",
+            "foundingDetails": null,
+            "aboutBanner": null,
+            "businessModel": "As a Cloud Kitchen, the Company functions as a delivery-only restaurant with no dine-in space or takeaway counter. ",
+            "revenueInfo": "Cloud Kitchen",
+            "unitEconomics": "",
+            "futurePlans": "futurePlans field",
+            "location": "Jaipur, Rajasthan",
+            "websiteUrl": "",
+            "legalName": "BIGSPOON FOODS PRIVATE LIMITED",
+            "form": "Private"
+        }
+    }
+]

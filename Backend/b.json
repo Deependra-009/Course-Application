@@ -1,0 +1,73 @@
+[
+    {
+        "startupName": "Razorpay",
+        "desc": "Power your finance, grow your business",
+        "logoUrl": "https://finveststorage.s3.amazonaws.com/Razorpay.png",
+        "valuation": null,
+        "category": {
+            "categoryId": 1,
+            "categoryName": "Fintech",
+            "categoryImageUrl": "default.png",
+            "categoryDescription": "Fintech Category Description"
+        },
+        "founders": [
+            {
+                "founderName": "Vijay Shekhar Verma",
+                "imageUrl": "image.png",
+                "description": "Founder of Razorpay",
+                "title": null
+            }
+        ],
+        "fundRaisingRounds": [
+            {
+                "investorsName": "Info Edge",
+                "valuation": "100000",
+                "roundName": "Seed Round",
+                "fundingDate": "23/11/2012"
+            }
+        ],
+        "fundingCampaigns": [
+            {
+                "roundName": "Series N",
+                "campaignBannerUrl": "https://finveststorage.s3.amazonaws.com/razorpaybanner.png",
+                "preMoneyValuation": 200000,
+                "instrumentType": "AIF",
+                "leadInvestor": "Sequia",
+                "createdAt": "23/11/2022",
+                "updatedAt": "24/11/2022",
+                "isActive": false,
+                "isTrending": false,
+                "totalAmountRaised": 1000000,
+                "amountRaising": 1000000,
+                "minInvestment": 10000
+            },
+            {
+                "roundName": "Series N",
+                "campaignBannerUrl": "https://finveststorage.s3.amazonaws.com/razorpaybanner.png",
+                "preMoneyValuation": 200000,
+                "instrumentType": "AIF",
+                "leadInvestor": "Sequia",
+                "createdAt": "23/11/2022",
+                "updatedAt": "24/11/2022",
+                "isActive": true,
+                "isTrending": true,
+                "totalAmountRaised": 700000,
+                "amountRaising": 1000000,
+                "minInvestment": 10000
+            }
+        ],
+        "about": {
+            "aboutCompany": "Yohhy know IMO company field",
+            "foundingDetails": null,
+            "aboutBanner": null,
+            "businessModel": "Razorpay field",
+            "revenueInfo": "Razorpay field",
+            "unitEconomics": "unitEconomics field",
+            "futurePlans": "futurePlans field",
+            "location": "Bengaluru, Karnataka",
+            "websiteUrl": "paytm.com",
+            "legalName": "",
+            "form": "Private"
+        }
+    }
+]
